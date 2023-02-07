@@ -1,0 +1,23 @@
+# Create a solution
+dotnet new sln -n ApexRestaurant
+
+# Add projects to solution
+dotnet sln ApexRestaurant.sln add ./ApexRestaurant.Repository/ApexRestaurant.Repository.csproj
+dotnet sln ApexRestaurant.sln add ./ApexRestaurant.Services/ApexRestaurant.Services.csproj
+dotnet sln ApexRestaurant.sln add ./ApexRestaurant.Api/ApexRestaurant.Api.csproj
+dotnet sln ApexRestaurant.sln add ./ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj
+Note that in macOS, the path separator is /, not \.
+
+________________________________________
+
+
+sql
+Copy code
+# Add references of projects
+dotnet add ./ApexRestaurant.Services reference ./ApexRestaurant.Repository/ApexRestaurant.Repository.csproj
+dotnet add ./ApexRestaurant.Api reference ./ApexRestaurant.Services/ApexRestaurant.Services.csproj
+dotnet add ./ApexRestaurant.Api reference ./ApexRestaurant.Repository/ApexRestaurant.Repository.csproj
+Note that in macOS, the path separator is /, not \.
+
+
+________________________________________

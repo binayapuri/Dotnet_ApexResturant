@@ -1,0 +1,12 @@
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.deps.json
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.dll
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.pdb
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.csproj.AssemblyReference.cache
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.AssemblyInfoInputs.cache
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.AssemblyInfo.cs
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.dll
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/refint/ApexRestaurant.Repository.dll
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.pdb
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ref/ApexRestaurant.Repository.dll

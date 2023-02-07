@@ -1,0 +1,15 @@
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Services.deps.json
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Services.dll
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Services.pdb
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Repository.dll
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Repository.pdb
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.csproj.AssemblyReference.cache
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.AssemblyInfoInputs.cache
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.AssemblyInfo.cs
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.csproj.CopyComplete
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.dll
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/refint/ApexRestaurant.Services.dll
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.pdb
+/Users/binayapuri/Desktop/7th sem/DOT NET/Lab/ApexRestaurant/ApexRestaurant.Services/obj/Debug/net7.0/ref/ApexRestaurant.Services.dll
